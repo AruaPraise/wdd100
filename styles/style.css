@@ -20,12 +20,12 @@ aside{
     border: 1px solid hsla(200,0%,0%,.7);
     padding: 1rem;
     background-color: rgb(102, 114, 124);
-    color: rgb(rgb(159, 93, 230));
+    color: rgb(159, 93, 230);
     text-align: center;
 }
 aside img{
     width: 200px;
-    height: auto;
+    height: auto;   
 
 }
 main img{
