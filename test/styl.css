@@ -1,0 +1,11 @@
+.grid {
+  /* display: grid; */
+  /* grid-column: 1; */
+  color: rgb(183, 26, 26);
+  width: 80px;
+  height: 80px;
+}
+
+/* .caption {
+  grid-columns: 3;
+} */
